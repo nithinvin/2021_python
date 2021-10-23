@@ -1,4 +1,4 @@
-X = 6
-Y = 4332
-Z = X + Y
+X = 2
+Y = 5
+Z = X ** Y
 print (Z)
