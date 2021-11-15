@@ -1,0 +1,25 @@
+Sequential:
+Stmt1
+
+Stmt2
+
+Stmt3
+
+Stmt4
+
+Selective:
+if <condition1>:
+  Stmt1
+  Stmt2  
+elif <condition3>:
+  Stmt7
+  Stmt8
+else:
+  Stmt3
+  Stmt4
+
+Iterative:
+while <condition4>:
+  Stmt9
+  Stmt10
+  Stmt11
