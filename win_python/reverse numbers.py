@@ -1,4 +1,5 @@
 num = int(input("Enter a number greater than 1000: "))
+
 rnum = 0
 tnum = num
 while tnum > 0:
