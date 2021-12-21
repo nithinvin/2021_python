@@ -12,5 +12,4 @@ def fizz_buzz(input):
     return return_string
     
 
-
 print(fizz_buzz(25))
