@@ -11,7 +11,7 @@ def isHappy(n: int) -> bool:
             elif squared_sum == 4:                
                 return False
             else:
-                tnum = squared_sum
+                tnum = squared_sum 
                 squared_sum = 0
 
 def printHappyOrNot(n: int, happy: bool):
