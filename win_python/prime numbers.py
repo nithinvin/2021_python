@@ -1,5 +1,5 @@
 num = 4
-while num<1000000:
+while num<100:
     j = 2
     while j<=(num ** 0.5):
         #print ("Check if", num, "is divisible by", j)
