@@ -1,0 +1,4 @@
+
+for item in row_1:
+    sum += item
+
