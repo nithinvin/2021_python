@@ -1,4 +1,4 @@
-num = int(input("Enter a number greater than 1000: "))
+num = int(input("Enter a number : "))
 
 rnum = 0
 tnum = num
